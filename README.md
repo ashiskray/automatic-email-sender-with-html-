@@ -1,10 +1,10 @@
-# 📧 Send Email with Attachment in Python  
+#  Send Email with html in Python  
 
 This Python script sends an email with Html using Gmail’s SMTP server.  
 It connects securely, logs in with your Gmail App Password, and sends your html E-mail to the receiver.  
 
 
-## 🚀 How It Works  
+##  How It Works  
 1. Import required modules:  
    - ssl → For secure connection  
    - smtplib → Send email via SMTP  
